@@ -124,13 +124,12 @@ Column on the far left should have a box shadow to its right. */
 p + p {
      /* Set indentation */
      text-indent: 10px;
-     margin-left: 20px;
+
   }
   
 p{
      /* Set margin */
      margin-top: 5px;
-     margin-left: 20px;
      
 }
 
